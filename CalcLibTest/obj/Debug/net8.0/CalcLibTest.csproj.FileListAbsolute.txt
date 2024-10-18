@@ -112,3 +112,4 @@ D:\Week15\CalcLibTest\obj\Debug\net8.0\refint\CalcLibTest.dll
 D:\Week15\CalcLibTest\obj\Debug\net8.0\CalcLibTest.pdb
 D:\Week15\CalcLibTest\obj\Debug\net8.0\CalcLibTest.genruntimeconfig.cache
 D:\Week15\CalcLibTest\obj\Debug\net8.0\ref\CalcLibTest.dll
+D:\Week15\CalcLibTest\obj\Debug\net8.0\CalcLibTest.sourcelink.json

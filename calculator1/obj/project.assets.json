@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "d:\\Week15\\CalculatorLibrary\\CalculatorLibrary.csproj": {
-              "projectPath": "d:\\Week15\\CalculatorLibrary\\CalculatorLibrary.csproj"
+            "D:\\Week15\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+              "projectPath": "D:\\Week15\\CalculatorLibrary\\CalculatorLibrary.csproj"
             }
           }
         }

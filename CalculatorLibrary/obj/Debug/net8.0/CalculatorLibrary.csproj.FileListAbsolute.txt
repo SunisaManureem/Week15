@@ -9,3 +9,4 @@ D:\Week15\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
 D:\Week15\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
 D:\Week15\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
 D:\Week15\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
+D:\Week15\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.sourcelink.json
