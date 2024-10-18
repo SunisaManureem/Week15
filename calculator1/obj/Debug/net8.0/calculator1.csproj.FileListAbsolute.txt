@@ -16,3 +16,4 @@ D:\Week15\calculator1\obj\Debug\net8.0\refint\calculator1.dll
 D:\Week15\calculator1\obj\Debug\net8.0\calculator1.pdb
 D:\Week15\calculator1\obj\Debug\net8.0\calculator1.genruntimeconfig.cache
 D:\Week15\calculator1\obj\Debug\net8.0\ref\calculator1.dll
+D:\Week15\calculator1\obj\Debug\net8.0\calculator1.sourcelink.json
